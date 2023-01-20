@@ -1,8 +1,15 @@
 # Learning to make mixed-integer robot motion planning easy
 
-The report is available [here](Report_Semester_project_tanguy.pdf).
+I recommend to first go through the report which is available [here](Report_Semester_project_tanguy.pdf) before checking the code.
 
 ## Files:
 
-- [generate_data.py](generate_data.py)
-- file 2
+- [generate_data.py](generate_data.py): Part of the offline algorithm. Computes the visibility graph, dijkstra single source shortest path, formulates the optimization problem for the receding horizon framework ,and storse the data for the receding horizon local MIP problem that is required to train both the classifier for waypoints and for individual strategies.
+
+- file 2: Part of the offline algorithm. Training notebook for predicting waypoint.
+
+- file 3: Part of the offline algorithm. Training notebook for predicting binary strategies.
+
+- file 4: Part of the online algorithm. Notebook for solving the receding horizon optimization problem with predicted binaries.
+
+- file 5: Online algorithm for testbed implementation. 
