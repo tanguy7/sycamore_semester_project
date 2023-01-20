@@ -4,5 +4,5 @@ The report is available [here](Report_Semester_project_tanguy.pdf).
 
 ## Files:
 
-- file 1
+- [generate_data.py](generate_data.py)
 - file 2
