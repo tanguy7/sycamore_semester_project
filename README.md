@@ -8,7 +8,7 @@ I recommend to first go through the report which is available [here](Report_Seme
 
 - [Waypoint_prediction.ipynb](Waypoint_prediction.ipynb) : Part of the offline algorithm. Training notebook for predicting waypoint.
 
-- file 3: Part of the offline algorithm. Training notebook for predicting binary strategies.
+- [Strategies_prediction.ipynb](Strategies_prediction.ipynb) : Part of the offline algorithm. Training notebook for predicting binary strategies.
 
 - file 4: Part of the online algorithm. Notebook for solving the receding horizon optimization problem with predicted binaries.
 
