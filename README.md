@@ -10,6 +10,6 @@ I recommend to first go through the report which is available [here](Report_Seme
 
 - [Strategies_prediction.ipynb](Strategies_prediction.ipynb) : Part of the offline algorithm. Training notebook for predicting binary strategies.
 
-- file 4: Part of the online algorithm. Notebook for solving the receding horizon optimization problem with predicted binaries.
+- [receding_learning.ipynb](receding_learning.ipynb): Online algorithm. Notebook for solving the receding horizon optimization problem with predicted binaries. Evaluates local problem solutions, and example of one global problem solved.
 
-- file 5: Online algorithm for testbed implementation. 
+- : Online algorithm for testbed implementation. 
