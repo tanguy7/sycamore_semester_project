@@ -18,4 +18,8 @@ I recommend to first go through the report which is available [here](Report_Seme
 
 - [REC.py](REC.py):
 
+- [pred_strategies.ckpt](pred_strategies.ckpt):
+
+- [pred_candidates.ckpt](pred_candidates.cpkt):
+
 
