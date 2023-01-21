@@ -12,4 +12,4 @@ I recommend to first go through the report which is available [here](Report_Seme
 
 - [receding_learning.ipynb](receding_learning.ipynb): Online algorithm. Notebook for solving the receding horizon optimization problem with predicted binaries. Evaluates local problem solutions, and example of one global problem solved.
 
-- : Online algorithm for testbed implementation. 
+- [implementations.py](implementations.py): 
